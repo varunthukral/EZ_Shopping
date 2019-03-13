@@ -1,0 +1,6 @@
+
+
+
+cf p Springauthentication-varun  -p SpringSecurityDBAuthentication.jar
+
+cf p Springauthentication-varun  -p SpringSecurityDBAuthentication\target\SpringSecurityDBAuthentication.jar
